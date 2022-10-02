@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**b1nzeex/b1nzeex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I am currently working on multiple projects to make open source to further develop my skills in various different languages and frameworks!
 
-Here are some ideas to get you started:
+- 🌱 I am currently studying a HNC in Computing at Heart of Worcestershire College where I am learning theory and practical in programming!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I am a solo developer, I do not like to collaborate - but I am willing to look over people's work should they need help or criticism!
+
+- 📫 You can reach me via Discord, my tag is Host#1291
+
+- 😄 My pronouns are he/him!
+
+- ⚡ Fun Fact: I like to watch Dhar Mann!
