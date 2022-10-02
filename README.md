@@ -11,3 +11,5 @@
 - 😄 My pronouns are he/him!
 
 - ⚡ Fun Fact: I like to watch Dhar Mann!
+
+![GIF of a cat being brushed](https://img2.storyblok.com/400x0/filters:format(png):quality(80)/f/98372/400x250/5397514044/giphy.gif)
