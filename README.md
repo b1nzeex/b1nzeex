@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-- 🔭 I am currently working on multiple projects to make open source to further develop my skills in various different languages and frameworks!
+- 🔭 I am currently working on multiple projects to make open source to further develop my skills in various different languages and frameworks, this includes a portfolio website for myself where I will showcase my CSS snippets!
 
 - 🌱 I am currently studying a HNC in Computing at Heart of Worcestershire College where I am learning theory and practical in programming!
 
