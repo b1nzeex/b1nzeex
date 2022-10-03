@@ -4,7 +4,7 @@
 
 - 🌱 I am currently studying a HNC in Computing at Heart of Worcestershire College where I am learning theory and practical in programming!
 
-- 👯 I am a solo developer, I do not like to collaborate - but I am willing to look over people's work should they need help or criticism!
+- 👯 As part of my Personal Development Plan for my HNC assignment, I have challenged myself to collaborate with somebody on a project - if you want to collaborate, go ahead and send me project ideas via Discord! If I like your idea, I will collaborate and work on the project with you - you will also be required to show me your past work (I would like to do a project using NodeJS and/ or React).
 
 - 📫 You can reach me via Discord, my tag is Host#1291
 
