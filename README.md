@@ -1,17 +1,69 @@
-### Hi there! 👋
+<p align="center">
+  <img src="https://cbeachx.me/static/media/cbeachx.5452f4b9.png" />
+</p>
 
-- 🔭 I am currently working on multiple projects to make open source to further develop my skills in various different languages and frameworks!
+<h1 align="center">Hello, I'm Connor!</h1>
 
-- 🔎 You can find my portfolio [here](https://cbeachx.me)!
+###### Programming / Scripting / Markdown Languages I Know...
+<p float="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="50px" />
+</p>
 
-- 🌱 I am currently studying a HNC in Computing at Heart of Worcestershire College where I am learning theory and practical in programming!
+###### Databases I Know...
+<p float="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50px" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50px" />
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50px" />
+</p>
 
-- 👯 As part of my Personal Development Plan for my HNC assignment, I have challenged myself to collaborate with somebody on a project - if you want to collaborate, go ahead and send me project ideas via Discord! If I like your idea, I will collaborate and work on the project with you - you will also be required to show me your past work (I would like to do a project using NodeJS and/ or React).
+###### Frameworks I Know...
+<p float="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50px" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50px" />
+</p>
 
-- 📫 You can reach me via Discord, my tag is eSkuzi#0001
+###### Other Useful Things I Know...
+<p float="left">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="50px" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50px" />
+</p>
 
-- 😄 My pronouns are he/him!
+### About Me!
 
-- ⚡ Fun Fact: I like to watch Dhar Mann!
+```ts
+import { Person } from "../Person";
 
-![GIF of a cat being brushed](https://img2.storyblok.com/400x0/filters:format(png):quality(80)/f/98372/400x250/5397514044/giphy.gif)
+export class ConnorBeach extends Person {
+  public name: string;
+  public age: number;
+  public county: string;
+  public hobbies: string[];
+
+  public constructor() {
+    this.name = "Connor Beach";
+    this.age = 22;
+    this.county = "Herefordshire, UK";
+    this.hobbies = ["Programming", "Gaming", "Maintenance"];
+    
+    this.introduce();
+  }
+  
+  private introduce() {
+    return console.log(`Hello, my name is ${this.name}, I am ${this.age} years old and live in ${this.county}. My hobbies are ${this.hobbies.join(", ")}!`);
+  }
+}
+```
