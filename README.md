@@ -40,7 +40,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="50px" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50px" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50px" />
-  <img src="https://progsoft.net/images/virtualizor-icon-43b28350a297fc980ae456cfbfeeba9bd6744410.png" width="50px" />
+  <img src="https://i.imgur.com/3HOIP2w.png" width="50px" />
 </p>
 
 ### About Me!
