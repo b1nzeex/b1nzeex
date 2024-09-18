@@ -55,7 +55,7 @@ export class ConnorBeach extends Person {
 
   public constructor() {
     this.name = "Connor Beach";
-    this.age = 23;
+    this.age = 24;
     this.county = "Herefordshire, UK";
     this.hobbies = ["Programming", "Gaming", "Maintenance"];
     
