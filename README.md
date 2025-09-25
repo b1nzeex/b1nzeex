@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://b1nzee.me/static/media/cbeachx.bc516d73551852bd20a2.png" />
+  <img src="https://b1nzee.dev/static/media/cbeachx.bc516d73551852bd20a2.png" />
 </p>
 
 <h1 align="center">Hello, I'm Connor!</h1>
