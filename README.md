@@ -4,8 +4,6 @@
 
 <h1 align="center">Hello, I'm Connor!</h1>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=b1nzeex&show_icons=true)
-
 ###### Programming / Scripting / Markdown Languages I Know...
 <p float="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50px" />
